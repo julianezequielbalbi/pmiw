@@ -1,0 +1,40 @@
+ Titulo World of Warcraft
+ Azeroth, una tierra de magia y aventuras. Eres, Sir Anduin Lothar, el Leon de Azeroth, del linaje de los Arathi y Campeon del Rey. Mientras caminabas por las calles de Ventormenta, unos soldados se te acercan para informarte de que un grupo de exploradores fueron atacados por misteriosas criaturas. Te propones a investigar.
+ Inspeccionas el cuerpo de uno de los soldados atacados, ennegrecido y putrefacto. Apenas eres capaz de discernir que era humano.
+ Entonces llega un mago llamado Khadgar que te solicita examinar el cuerpo, debido a sus misteriosas heridas.¿Lo dejaras?.
+ Khadgar encuentra una energia extraña y oscura aferrada al cuerpo.Sin embargo, el mago es demasiado inexperto en sus artes como para darte mas informacion.
+ Informan al rey Anduin Wrynn sobre sus hallazgos. Tras escuchar sobre la misteriosa energia, el rey los insta a buscar mas informacion.
+ Buscan al gran mago Medvih, quien les informa que esta energia proviene de los demonios, la llamada Legion Ardiente y que es muy peligroso. Medvih decide ir con ellos a buscar la fuente de este mal.
+ Son emboscados por un grupo de criaturas gigantes y salvajes, sin embargo, con la ayuda de Medivh logran derrotarlos. Al finalizar la batalla logran capturar a una hembra joven de esta raza, mas parecida a un humano que sus congeneres. Se presenta como la semiorco Garona.
+ Garona les habla sobre los orcos, como destruyeron su mundo, llegaron a traves de un portal y ahora buscan volver a abrirlo para traer al resto de su raza y conquistar este. Todos los clanes unidos en una sola Horda liderada por el hechicero Guldan. La Semiorco les ofrece dirigirlos a su base a cambio de un buen trato.
+ Llegan a la base, pero son descubiertos por Durotan, jefe del Clan Lobo Gélido. Durotan, en desacuerdo con como Guldan lidera a su raza les sugiere realizar una reunion secreta con pocos soldados para pactar una alianza.
+ ¿Respetas el acuerdo y llevaras una guardia minima?.
+ Eres un caballero del rey, tu palabra lo es todo.
+ La reunion se lleva a cabo, pero son emboscados por orcos leales a Guldan y tienen que escapar, no sabes que fue de Durotan. Ahora tienes que decidir, atacar solo antes de que los orcos se preparen o esperar refuerzos de otras partes del reino.
+ ¿Atacas o esperas?.
+ Llevas al ejercito de la ciudad de Ventormenta hacia el portal con la esperanza de poder destruirlo antes de que Guldan termine de abrirlo.
+ Medvih te ha traicionado, el mismo ha terminado de abrir el portal en medio de la batalla y ha matado al rey.Has perdido pero sobreviviste y ahora tendras que unir al resto de reinos en contra de esta amenaza.
+ Fin
+ RUTA A
+ Informas al rey, quien te ordena partir de inmediato y acabar con la amenaza.
+ Tu grupo es emboscado por un grupo de criaturas enormes y todos mueren. Sin ti, el reino no sera capaz de hacer frente a la amenaza. Un sombrio futuro se cierne sobre el.
+ fin
+ RUTA B
+ Para cuando logran reunir suficientes hombres el portal ya se ha abierto. Pronto son abrumados por sus numeros inabarcables.
+ Guldan ha esclavizado a los orcos a su voluntad con magia y ha abierto un nuevo portal del que innumerables demonios comienzan a entrar a este plano. Una risa cruel se escucha por todos los rincones de Azeroth.
+ fin
+ RUTA C
+ No puedes confiar en la criatura. Decides llevar mas hombres a escondidas temiendo traicion.
+ La reunion se lleva a cabo pero son emboscados por orcos leales a Guldan, con tus refuerzos escondidos, logran repelerlos y se reagrupan con Durotan en Ventormena.
+ Todos se reunen para hacer un plan, Medvih sugiere un ataque directo pero tienen pocas tropas disponibles y tardaran en reunir mas. Durotan apoya a Medvir cuanto mas esperen, mas enemigos habra y propone enfrentar a Guldan por el liderazgo de la horda. En privado, Durotan te dice Medvih huele a magia negra y te insta a tener cuidado.
+ ¿ATACAS O ESPERAS?.
+ fin
+ RUTA D
+ Sois pocos, pero con Durotan y su clan de vuestro lado tienes la esperanza de poder abrirte paso hasta Guldan y acabar con la lucha.
+ Medvir nos traiciona e intenta abrir el portal, pero Durotar y tu lo derrotas, luego, el orco reta a Guldan a un combate sagrado.Guldan usa sus poderes y casi derrota a Guldan pero Khadgar despierta el poder de la Luz sagrada y termina con él.
+ Los orcos repudian a Guldan por deshonrar el combate utilizando magia oscura y Durotar se convierte en jefe de la Horda. Se establece la paz y los humanos ayudan a los orcos a construir un nuevo hogar en Azeroth. En las sombras, la Legion Ardiente planea su siguiente movimiento.
+ fin
+ RUTA E
+ Para cuando logran reunir un ejercito mas grande, el portal ha sido abierto y son abrumados pero con la ayuda de Durotar logran resistir y retirarse.Los orcos se quedan con el reino y los humanos en el exilio buscas ayuda para continuar la guerra.
+ Durotan logra escapar y junto a otros orcos sin corromper forma una nueva Horda que se opone a Guldan.
+ FIN
